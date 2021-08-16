@@ -7,3 +7,5 @@ const population = "1M"
 console.log(country);
 console.log(continent);
 console.log(population);
+
+hello
